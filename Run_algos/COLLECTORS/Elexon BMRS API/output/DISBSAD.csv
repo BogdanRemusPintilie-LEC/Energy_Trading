@@ -1,0 +1,466 @@
+Dataset,SettlementDate,SettlementPeriod,Id,Cost,Volume,SoFlag,StorFlag,PartyId,AssetId,IsTendered,Service
+DISBSAD,2026-06-26,3,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-26,2,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-26,1,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,48,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,47,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,46,1,3346.00,25.000,True,False,Danske Commodities A/S,IFG-DSKC1,True,System
+DISBSAD,2026-06-25,46,2,3302.00,25.000,True,False,Danske Commodities A/S,IFG-DSKC1,True,System
+DISBSAD,2026-06-25,46,3,3280.50,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,46,4,67.01,0.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,46,5,6631.02,49.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,46,6,3347.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,45,2,67.01,0.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,45,3,3302.00,25.000,True,False,Danske Commodities A/S,IFG-DSKC1,True,System
+DISBSAD,2026-06-25,45,4,3280.50,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,45,5,6631.02,49.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,45,6,3347.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,45,1,3346.00,25.000,True,False,Danske Commodities A/S,IFG-DSKC1,True,System
+DISBSAD,2026-06-25,44,2,1923.38,8.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,44,3,5947.50,25.000,False,False,MFT Energy A/S,IBG-MFTE1,True,Energy
+DISBSAD,2026-06-25,44,4,5769.60,24.000,False,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,Energy
+DISBSAD,2026-06-25,44,5,2037.50,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,44,6,3857.81,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,44,7,3939.95,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,44,8,4104.04,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,44,9,5600.50,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,44,10,12005.00,62.500,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,44,11,2894.13,12.500,False,False,Centrica Energy Trading A/S,IBG-NEAS1,True,Energy
+DISBSAD,2026-06-25,44,12,7275.00,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,44,13,4015.25,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,44,14,8243.50,50.000,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,44,15,9066.75,37.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,16,7389.45,22.500,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,44,17,4025.00,25.000,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,44,18,2707.15,16.500,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,44,19,4104.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,44,20,5625.00,25.000,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,44,21,8381.50,50.000,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,44,22,3971.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,44,23,4091.26,24.500,True,False,QUANTUM POWER TRADING ApS,IFG-QTPT1,True,System
+DISBSAD,2026-06-25,44,24,8692.00,50.000,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,44,25,5822.50,25.000,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,26,6165.25,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,44,27,6720.00,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,44,28,7655.25,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,44,29,3855.13,12.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,30,8073.75,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,44,31,2644.88,8.000,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,32,3926.50,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,44,33,4059.75,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,44,34,2062.50,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,44,35,1410.15,8.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,44,36,2129.75,12.500,False,False,Danske Commodities A/S,I2G-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,37,4611.36,24.000,False,False,Norlys Energy Trading A/S,IVG-NORL1,True,Energy
+DISBSAD,2026-06-25,44,38,2596.05,13.500,False,False,In Commodities A/S,IVG-INCM1,True,Energy
+DISBSAD,2026-06-25,44,39,3109.50,12.500,False,False,Centrica Energy Trading A/S,IBG-NEAS1,True,Energy
+DISBSAD,2026-06-25,44,40,6545.00,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,44,41,3299.88,12.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,42,3577.50,12.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,44,43,2182.44,13.000,True,False,EDF Trading Ltd,IFG-EDFT1,True,System
+DISBSAD,2026-06-25,44,44,4022.09,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,44,45,4242.91,24.500,False,False,Norlys Energy Trading A/S,I2G-NORL1,True,Energy
+DISBSAD,2026-06-25,44,46,2275.00,13.000,False,False,BKW Energie AG,I2G-BKWE1,True,Energy
+DISBSAD,2026-06-25,44,47,9436.50,50.000,False,False,In Commodities A/S,IVG-INCM1,True,Energy
+DISBSAD,2026-06-25,44,48,2262.80,10.000,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,44,49,5990.00,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,44,50,6348.72,24.000,False,False,MFT Energy A/S,IBG-MFTE1,True,Energy
+DISBSAD,2026-06-25,44,51,3058.89,11.500,False,False,Centrica Energy Trading A/S,IBG-NEAS1,True,Energy
+DISBSAD,2026-06-25,44,52,6975.00,25.000,False,False,PowerMart ApS,IBG-PWMR1,True,Energy
+DISBSAD,2026-06-25,44,53,7100.25,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,44,54,8225.00,25.000,False,False,PowerMart ApS,IBG-PWMR1,True,Energy
+DISBSAD,2026-06-25,44,55,3937.50,17.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,44,1,1987.50,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,43,54,3109.50,12.500,False,False,Centrica Energy Trading A/S,IBG-NEAS1,True,Energy
+DISBSAD,2026-06-25,43,55,5625.00,25.000,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,43,1,2707.15,16.500,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,43,2,9436.50,50.000,False,False,In Commodities A/S,IVG-INCM1,True,Energy
+DISBSAD,2026-06-25,43,3,7100.25,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,43,4,2037.50,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,43,5,4104.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,43,6,8381.50,50.000,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,43,7,5990.00,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,43,8,9066.75,37.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,9,6348.72,24.000,False,False,MFT Energy A/S,IBG-MFTE1,True,Energy
+DISBSAD,2026-06-25,43,10,7655.25,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,43,11,3971.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,43,12,4015.25,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,43,13,8692.00,50.000,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,43,14,6720.00,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,43,15,3577.50,12.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,16,1987.50,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,43,17,4059.75,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,43,18,8243.50,50.000,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,43,19,2062.50,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,43,20,2182.44,13.000,True,False,EDF Trading Ltd,IFG-EDFT1,True,System
+DISBSAD,2026-06-25,43,21,3857.81,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,43,22,1923.38,8.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,43,23,4611.36,24.000,False,False,Norlys Energy Trading A/S,IVG-NORL1,True,Energy
+DISBSAD,2026-06-25,43,24,2894.13,12.500,False,False,Centrica Energy Trading A/S,IBG-NEAS1,True,Energy
+DISBSAD,2026-06-25,43,25,6975.00,25.000,False,False,PowerMart ApS,IBG-PWMR1,True,Energy
+DISBSAD,2026-06-25,43,26,3939.95,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,43,27,4022.09,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,43,28,2129.75,12.500,False,False,Danske Commodities A/S,I2G-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,29,4242.91,24.500,False,False,Norlys Energy Trading A/S,I2G-NORL1,True,Energy
+DISBSAD,2026-06-25,43,30,5822.50,25.000,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,31,5947.50,25.000,False,False,MFT Energy A/S,IBG-MFTE1,True,Energy
+DISBSAD,2026-06-25,43,32,6165.25,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,43,33,3058.89,11.500,False,False,Centrica Energy Trading A/S,IBG-NEAS1,True,Energy
+DISBSAD,2026-06-25,43,34,3855.13,12.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,35,2644.88,8.000,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,36,3926.50,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,43,37,4025.00,25.000,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,43,38,1410.15,8.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,43,39,2262.80,10.000,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,43,40,5769.60,24.000,False,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,Energy
+DISBSAD,2026-06-25,43,41,7275.00,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,43,42,7389.45,22.500,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,43,43,5600.50,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,43,44,2275.00,13.000,False,False,BKW Energie AG,I2G-BKWE1,True,Energy
+DISBSAD,2026-06-25,43,45,2596.05,13.500,False,False,In Commodities A/S,IVG-INCM1,True,Energy
+DISBSAD,2026-06-25,43,46,6545.00,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,43,47,3299.88,12.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,43,48,8073.75,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,43,49,8225.00,25.000,False,False,PowerMart ApS,IBG-PWMR1,True,Energy
+DISBSAD,2026-06-25,43,50,4091.26,24.500,True,False,QUANTUM POWER TRADING ApS,IFG-QTPT1,True,System
+DISBSAD,2026-06-25,43,51,4104.04,18.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,43,52,3937.50,17.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,43,53,12005.00,62.500,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,42,1,4723.00,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,42,2,9594.20,49.000,False,False,MFT Energy A/S,IFG-MFTE1,True,Energy
+DISBSAD,2026-06-25,42,3,7042.49,35.500,False,False,Outlook Energy Ltd,IFG-OUTL1,True,Energy
+DISBSAD,2026-06-25,42,4,1917.39,9.500,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,42,5,2275.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,42,6,4602.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,42,7,9261.00,50.000,True,False,MFT Energy A/S,IFG-MFTE1,True,System
+DISBSAD,2026-06-25,42,8,6635.66,35.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,42,9,3658.79,19.500,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,42,10,4779.50,25.000,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,42,11,4900.75,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,42,12,2985.18,16.500,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,42,13,7913.64,41.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,42,14,1382.93,7.500,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,42,15,1031.97,5.500,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,42,16,4868.25,25.000,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,42,17,4989.50,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,42,18,4458.75,25.000,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,42,19,8959.01,49.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,42,20,1880.00,10.000,False,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,Energy
+DISBSAD,2026-06-25,42,21,1473.53,7.500,False,False,Helios Power Trading A/S,IFG-HELI1,True,Energy
+DISBSAD,2026-06-25,42,22,2487.50,12.500,False,False,BKW Energie AG,IFG-BKWE1,True,Energy
+DISBSAD,2026-06-25,42,23,1500.00,7.500,False,False,ENZEE Commodities A/S,IFG-EZCO1,True,Energy
+DISBSAD,2026-06-25,42,24,920.00,5.000,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,42,25,4875.00,25.000,False,False,BKW Energie AG,IFG-BKWE1,True,Energy
+DISBSAD,2026-06-25,42,26,4905.25,25.000,False,False,In Commodities A/S,ILG-INCM1,True,Energy
+DISBSAD,2026-06-25,42,27,2250.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,42,28,6416.63,35.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,42,29,1380.00,7.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,42,30,2325.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,42,31,4811.75,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,42,32,4875.00,25.000,False,False,BKW Energie AG,I2G-BKWE1,True,Energy
+DISBSAD,2026-06-25,42,33,4957.00,25.000,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,42,34,1428.23,7.500,False,False,Helios Power Trading A/S,IFG-HELI1,True,Energy
+DISBSAD,2026-06-25,41,1,1380.00,7.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,41,2,1880.00,10.000,False,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,Energy
+DISBSAD,2026-06-25,41,3,4868.25,25.000,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,41,4,4905.25,25.000,False,False,In Commodities A/S,ILG-INCM1,True,Energy
+DISBSAD,2026-06-25,41,5,4458.75,25.000,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,41,6,4723.00,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,41,7,4900.75,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,41,8,1917.39,9.500,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,41,9,2250.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,41,10,6635.66,35.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,41,11,2487.50,12.500,False,False,BKW Energie AG,IFG-BKWE1,True,Energy
+DISBSAD,2026-06-25,41,12,1500.00,7.500,False,False,ENZEE Commodities A/S,IFG-EZCO1,True,Energy
+DISBSAD,2026-06-25,41,13,2985.18,16.500,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,41,14,4957.00,25.000,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,41,15,6416.63,35.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,41,16,4602.00,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,41,17,1382.93,7.500,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,41,18,9261.00,50.000,True,False,MFT Energy A/S,IFG-MFTE1,True,System
+DISBSAD,2026-06-25,41,19,2325.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,41,20,4875.00,25.000,False,False,BKW Energie AG,I2G-BKWE1,True,Energy
+DISBSAD,2026-06-25,41,21,4875.00,25.000,False,False,BKW Energie AG,IFG-BKWE1,True,Energy
+DISBSAD,2026-06-25,41,22,9594.20,49.000,False,False,MFT Energy A/S,IFG-MFTE1,True,Energy
+DISBSAD,2026-06-25,41,23,7042.49,35.500,False,False,Outlook Energy Ltd,IFG-OUTL1,True,Energy
+DISBSAD,2026-06-25,41,24,8959.01,49.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,41,25,1428.23,7.500,False,False,Helios Power Trading A/S,IFG-HELI1,True,Energy
+DISBSAD,2026-06-25,41,26,4779.50,25.000,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,41,27,4811.75,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,41,28,4989.50,25.000,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,41,29,2275.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,41,30,920.00,5.000,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,41,31,3658.79,19.500,False,False,Danske Commodities A/S,ILG-DSKC1,True,Energy
+DISBSAD,2026-06-25,41,32,7913.64,41.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,41,33,1473.53,7.500,False,False,Helios Power Trading A/S,IFG-HELI1,True,Energy
+DISBSAD,2026-06-25,41,34,1031.97,5.500,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,40,1,2250.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,40,36,7056.00,25.000,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,40,37,2741.44,8.000,True,False,Centrica Energy Trading A/S,IBG-NEAS1,True,System
+DISBSAD,2026-06-25,40,38,7317.38,37.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,39,2494.50,12.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,40,9000.00,25.000,False,False,BKW Energie AG,IBG-BKWE1,True,Energy
+DISBSAD,2026-06-25,40,41,3619.12,12.500,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,40,2,3120.00,12.000,False,False,SEFE Marketing & Trading Limited,IVG-SEFE1,True,Energy
+DISBSAD,2026-06-25,40,3,1343.40,7.500,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,40,4,3325.00,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,40,5,1911.00,7.000,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,40,6,8147.76,24.000,True,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,System
+DISBSAD,2026-06-25,40,7,10078.38,29.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,40,8,9095.75,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,40,9,8826.84,49.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,40,10,1952.37,10.500,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,40,11,10526.25,37.500,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,40,12,7150.88,37.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,13,6782.40,24.000,False,False,Norlys Energy Trading A/S,IVG-NORL1,True,Energy
+DISBSAD,2026-06-25,40,14,4750.00,25.000,False,False,BKW Energie AG,I2G-BKWE1,True,Energy
+DISBSAD,2026-06-25,40,15,6125.00,17.500,False,False,BKW Energie AG,IBG-BKWE1,True,Energy
+DISBSAD,2026-06-25,40,16,4448.75,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,40,17,2250.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,40,18,5477.10,30.000,True,False,MFT Energy A/S,IFG-MFTE1,True,System
+DISBSAD,2026-06-25,40,19,4581.75,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,40,20,3312.50,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,40,21,3312.50,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,40,22,291.05,1.000,True,False,Outlook Energy Ltd,ING-OUTL1,True,System
+DISBSAD,2026-06-25,40,23,13306.37,38.500,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,40,24,4515.25,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,40,25,11296.88,62.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,40,26,7111.62,24.500,True,False,MFT Energy A/S,ING-MFTE1,True,System
+DISBSAD,2026-06-25,40,27,6984.75,37.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,28,4002.46,14.000,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,29,10340.05,29.500,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,30,10601.71,29.500,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,40,31,4348.50,25.000,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,40,32,1345.00,5.000,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,40,33,3974.63,11.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,40,34,4392.00,12.000,False,False,SEFE Marketing & Trading Limited,IBG-GAZP1,True,Energy
+DISBSAD,2026-06-25,40,35,2687.25,15.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,39,1,8826.84,49.500,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,39,2,3619.12,12.500,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,39,3,4002.46,14.000,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,4,4392.00,12.000,False,False,SEFE Marketing & Trading Limited,IBG-GAZP1,True,Energy
+DISBSAD,2026-06-25,39,5,4750.00,25.000,False,False,BKW Energie AG,I2G-BKWE1,True,Energy
+DISBSAD,2026-06-25,39,6,4448.75,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,39,7,291.05,1.000,True,False,Outlook Energy Ltd,ING-OUTL1,True,System
+DISBSAD,2026-06-25,39,8,10078.38,29.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,39,9,2741.44,8.000,True,False,Centrica Energy Trading A/S,IBG-NEAS1,True,System
+DISBSAD,2026-06-25,39,10,7317.38,37.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,11,2687.25,15.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,39,12,7111.62,24.500,True,False,MFT Energy A/S,ING-MFTE1,True,System
+DISBSAD,2026-06-25,39,13,13306.37,38.500,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,39,14,6984.75,37.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,15,7150.88,37.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,16,10340.05,29.500,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,17,9095.75,25.000,False,False,Nitor Energy A/S,IBG-NITR1,True,Energy
+DISBSAD,2026-06-25,39,18,2250.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,39,19,5477.10,30.000,True,False,MFT Energy A/S,IFG-MFTE1,True,System
+DISBSAD,2026-06-25,39,20,3325.00,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,39,21,3120.00,12.000,False,False,SEFE Marketing & Trading Limited,IVG-SEFE1,True,Energy
+DISBSAD,2026-06-25,39,22,9000.00,25.000,False,False,BKW Energie AG,IBG-BKWE1,True,Energy
+DISBSAD,2026-06-25,39,23,1343.40,7.500,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,39,24,4581.75,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,39,25,3312.50,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,39,26,3312.50,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,39,27,1911.00,7.000,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,39,28,6782.40,24.000,False,False,Norlys Energy Trading A/S,IVG-NORL1,True,Energy
+DISBSAD,2026-06-25,39,29,3974.63,11.500,False,False,Danske Commodities A/S,IBG-DSKC1,True,Energy
+DISBSAD,2026-06-25,39,30,6125.00,17.500,False,False,BKW Energie AG,IBG-BKWE1,True,Energy
+DISBSAD,2026-06-25,39,31,4348.50,25.000,True,False,Helios Power Trading A/S,IFG-HELI1,True,System
+DISBSAD,2026-06-25,39,32,11296.88,62.500,True,False,Outlook Energy Ltd,IFG-OUTL1,True,System
+DISBSAD,2026-06-25,39,33,1952.37,10.500,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,39,34,1345.00,5.000,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,39,35,2494.50,12.500,False,False,Outlook Energy Ltd,I2G-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,36,10601.71,29.500,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,39,37,4515.25,25.000,True,False,Danske Commodities A/S,ILG-DSKC1,True,System
+DISBSAD,2026-06-25,39,38,10526.25,37.500,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,39,39,7056.00,25.000,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,39,40,8147.76,24.000,True,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,System
+DISBSAD,2026-06-25,39,41,2250.00,12.500,True,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,System
+DISBSAD,2026-06-25,38,1,1725.00,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,38,2,4857.25,25.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,38,3,9934.50,50.000,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,38,4,5829.00,25.000,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,38,5,3050.75,12.500,True,False,DXT Commodities SA,IBG-DUFE1,True,System
+DISBSAD,2026-06-25,38,6,9710.63,37.500,True,False,In Commodities A/S,IBG-INCM1,True,System
+DISBSAD,2026-06-25,38,7,2062.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,38,8,3302.04,12.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,38,9,4751.00,25.000,False,False,Danske Commodities A/S,I2G-DSKC1,True,Energy
+DISBSAD,2026-06-25,38,10,5613.50,25.000,True,False,MFT Energy A/S,IBG-MFTE1,True,System
+DISBSAD,2026-06-25,38,11,7533.62,31.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,38,12,3089.04,12.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,38,13,4812.75,25.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,38,14,4968.00,25.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,38,15,1650.00,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,38,16,11983.50,50.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,38,17,5757.12,24.000,True,False,Centrica Energy Trading A/S,IBG-NEAS1,True,System
+DISBSAD,2026-06-25,38,18,2500.00,10.000,True,False,SEFE Marketing & Trading Limited,IBG-GAZP1,True,System
+DISBSAD,2026-06-25,38,19,1912.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,38,20,6321.00,24.500,True,False,Northpool B.V.,IBG-NTPL1,True,System
+DISBSAD,2026-06-25,38,21,4790.25,25.000,False,False,MFT Energy A/S,I2G-MFTE1,True,Energy
+DISBSAD,2026-06-25,38,22,5600.75,25.000,True,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,System
+DISBSAD,2026-06-25,38,23,11761.50,50.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,38,24,5902.25,25.000,True,False,Atlas Energy Designated Activity Company,ING-ATLS1,True,System
+DISBSAD,2026-06-25,38,25,5708.40,24.000,True,False,MFT Energy A/S,IBG-MFTE1,True,System
+DISBSAD,2026-06-25,38,26,6125.00,25.000,True,False,PowerMart ApS,IBG-PWMR1,True,System
+DISBSAD,2026-06-25,38,27,1987.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,38,28,1537.58,5.500,True,False,DXT Commodities SA,IBG-DUFE1,True,System
+DISBSAD,2026-06-25,38,29,5695.50,25.000,True,False,Centrica Energy Trading A/S,IBG-NEAS1,True,System
+DISBSAD,2026-06-25,38,30,5360.63,22.500,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,38,31,5400.45,22.500,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,38,32,4231.50,17.500,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,38,33,3272.63,12.500,True,False,DXT Commodities SA,IBG-DUFE1,True,System
+DISBSAD,2026-06-25,38,34,4960.50,25.000,True,False,In Commodities A/S,ILG-INCM1,True,System
+DISBSAD,2026-06-25,38,35,5809.00,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,38,36,6094.00,25.000,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,38,37,1837.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,38,38,3125.00,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,38,39,6386.25,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,38,40,6307.77,24.500,True,False,Nitor Energy A/S,IBG-NITR1,True,System
+DISBSAD,2026-06-25,38,41,26316.00,150.000,True,False,Northpool B.V.,IFG-NTPL1,True,System
+DISBSAD,2026-06-25,38,42,9460.00,50.000,False,False,Northpool B.V.,IVG-NTPL1,True,Energy
+DISBSAD,2026-06-25,38,43,6697.25,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,37,1,6125.00,25.000,True,False,PowerMart ApS,IBG-PWMR1,True,System
+DISBSAD,2026-06-25,37,2,2062.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,37,3,1537.58,5.500,True,False,DXT Commodities SA,IBG-DUFE1,True,System
+DISBSAD,2026-06-25,37,4,4968.00,25.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,37,5,1650.00,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,37,6,1725.00,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,37,7,5829.00,25.000,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,37,8,5360.63,22.500,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,37,9,1912.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,37,10,9460.00,50.000,False,False,Northpool B.V.,IVG-NTPL1,True,Energy
+DISBSAD,2026-06-25,37,11,26316.00,150.000,True,False,Northpool B.V.,IFG-NTPL1,True,System
+DISBSAD,2026-06-25,37,12,11761.50,50.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,37,13,5757.12,24.000,True,False,Centrica Energy Trading A/S,IBG-NEAS1,True,System
+DISBSAD,2026-06-25,37,14,4231.50,17.500,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,37,15,1987.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,37,16,6697.25,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,37,17,4857.25,25.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,37,18,9934.50,50.000,True,False,MFT Energy A/S,ILG-MFTE1,True,System
+DISBSAD,2026-06-25,37,19,5600.75,25.000,True,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,System
+DISBSAD,2026-06-25,37,20,3302.04,12.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,37,21,11983.50,50.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,37,22,6386.25,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,37,23,3089.04,12.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,37,24,3272.63,12.500,True,False,DXT Commodities SA,IBG-DUFE1,True,System
+DISBSAD,2026-06-25,37,25,4751.00,25.000,False,False,Danske Commodities A/S,I2G-DSKC1,True,Energy
+DISBSAD,2026-06-25,37,26,5613.50,25.000,True,False,MFT Energy A/S,IBG-MFTE1,True,System
+DISBSAD,2026-06-25,37,27,5695.50,25.000,True,False,Centrica Energy Trading A/S,IBG-NEAS1,True,System
+DISBSAD,2026-06-25,37,28,5809.00,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,37,29,3050.75,12.500,True,False,DXT Commodities SA,IBG-DUFE1,True,System
+DISBSAD,2026-06-25,37,30,4790.25,25.000,False,False,MFT Energy A/S,I2G-MFTE1,True,Energy
+DISBSAD,2026-06-25,37,31,4812.75,25.000,True,False,Outlook Energy Ltd,ILG-OUTL1,True,System
+DISBSAD,2026-06-25,37,32,4960.50,25.000,True,False,In Commodities A/S,ILG-INCM1,True,System
+DISBSAD,2026-06-25,37,33,5902.25,25.000,True,False,Atlas Energy Designated Activity Company,ING-ATLS1,True,System
+DISBSAD,2026-06-25,37,34,7533.62,31.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,37,35,3125.00,12.500,True,False,SEFE Marketing & Trading Limited,ING-GAZP1,True,System
+DISBSAD,2026-06-25,37,36,6307.77,24.500,True,False,Nitor Energy A/S,IBG-NITR1,True,System
+DISBSAD,2026-06-25,37,37,5708.40,24.000,True,False,MFT Energy A/S,IBG-MFTE1,True,System
+DISBSAD,2026-06-25,37,38,5400.45,22.500,True,False,Nitor Energy A/S,ING-NITR1,True,System
+DISBSAD,2026-06-25,37,39,6094.00,25.000,True,False,Danske Commodities A/S,ING-DSKC1,True,System
+DISBSAD,2026-06-25,37,40,1837.50,7.500,True,False,BKW Energie AG,IBG-BKWE1,True,System
+DISBSAD,2026-06-25,37,41,6321.00,24.500,True,False,Northpool B.V.,IBG-NTPL1,True,System
+DISBSAD,2026-06-25,37,42,9710.63,37.500,True,False,In Commodities A/S,IBG-INCM1,True,System
+DISBSAD,2026-06-25,37,43,2500.00,10.000,True,False,SEFE Marketing & Trading Limited,IBG-GAZP1,True,System
+DISBSAD,2026-06-25,36,1,3117.50,25.000,True,False,Northpool B.V.,ING-NTPL1,True,System
+DISBSAD,2026-06-25,36,2,2559.00,20.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,36,3,3110.52,24.500,True,False,Nitor Energy A/S,IBG-NITR1,True,System
+DISBSAD,2026-06-25,36,4,3554.32,28.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,36,5,3441.90,27.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,36,6,3087.75,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,35,1,3554.32,28.000,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,35,2,3110.52,24.500,True,False,Nitor Energy A/S,IBG-NITR1,True,System
+DISBSAD,2026-06-25,35,3,3441.90,27.500,True,False,Outlook Energy Ltd,IBG-OUTL1,True,System
+DISBSAD,2026-06-25,35,4,3117.50,25.000,True,False,Northpool B.V.,ING-NTPL1,True,System
+DISBSAD,2026-06-25,35,5,2559.00,20.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,35,6,3087.75,25.000,True,False,Danske Commodities A/S,IBG-DSKC1,True,System
+DISBSAD,2026-06-25,34,1,2973.85,27.500,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,34,2,1930.08,17.500,False,False,Atlas Energy Designated Activity Company,IVG-ATLS1,True,Energy
+DISBSAD,2026-06-25,34,3,1422.25,12.500,False,False,Copenhagen Energy Trading A/S,IFG-COPN1,True,Energy
+DISBSAD,2026-06-25,34,4,3095.82,26.000,False,False,Outlook Energy Ltd,IFG-OUTL1,True,Energy
+DISBSAD,2026-06-25,34,5,2762.38,24.500,True,False,Nitor Energy A/S,IBG-NITR1,True,System
+DISBSAD,2026-06-25,34,6,2810.25,25.000,True,False,In Commodities A/S,IBG-INCM1,True,System
+DISBSAD,2026-06-25,34,7,5699.94,50.500,True,False,MFT Energy A/S,IFG-MFTE1,True,System
+DISBSAD,2026-06-25,34,8,8480.25,75.000,False,False,EDF Trading Ltd,IFG-EDFT1,True,Energy
+DISBSAD,2026-06-25,34,9,2784.00,24.000,False,False,PowerMart ApS,ING-PWMR1,True,Energy
+DISBSAD,2026-06-25,34,10,2615.63,22.500,False,False,Nitor Energy A/S,I2G-NITR1,True,Energy
+DISBSAD,2026-06-25,34,11,1170.00,10.000,False,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,Energy
+DISBSAD,2026-06-25,34,12,2942.75,25.000,False,False,EDF Trading Ltd,ILG-EDFT1,True,Energy
+DISBSAD,2026-06-25,34,13,600.00,5.000,False,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,Energy
+DISBSAD,2026-06-25,34,14,3022.80,27.500,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,34,15,2981.16,26.000,False,False,Outlook Energy Ltd,IFG-OUTL1,True,Energy
+DISBSAD,2026-06-25,34,16,7998.00,77.500,False,False,Northpool B.V.,IVG-NTPL1,True,Energy
+DISBSAD,2026-06-25,34,17,338.61,3.000,False,False,MFT Energy A/S,IFG-MFTE1,True,Energy
+DISBSAD,2026-06-25,34,18,1364.88,12.000,False,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,Energy
+DISBSAD,2026-06-25,34,19,400.79,3.500,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,34,20,1380.92,11.500,False,False,Danske Commodities A/S,ING-DSKC1,True,Energy
+DISBSAD,2026-06-25,34,21,2795.00,25.000,True,False,Northpool B.V.,IBG-NTPL1,True,System
+DISBSAD,2026-06-25,34,22,2795.00,25.000,True,False,Northpool B.V.,ING-NTPL1,True,System
+DISBSAD,2026-06-25,34,23,5510.00,47.500,False,False,PowerMart ApS,ILG-PWMR1,True,Energy
+DISBSAD,2026-06-25,34,24,2854.50,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,34,25,2804.52,24.500,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,34,26,1431.13,12.500,False,False,Copenhagen Energy Trading A/S,I2G-COPN1,True,Energy
+DISBSAD,2026-06-25,34,27,5746.95,49.500,False,False,Northpool B.V.,IFG-NTPL1,True,Energy
+DISBSAD,2026-06-25,34,28,4014.50,35.000,False,False,Volta Energy Designated Activity Company,IBG-VOLT1,True,Energy
+DISBSAD,2026-06-25,33,1,4014.50,35.000,False,False,Volta Energy Designated Activity Company,IBG-VOLT1,True,Energy
+DISBSAD,2026-06-25,33,2,7998.00,77.500,False,False,Northpool B.V.,IVG-NTPL1,True,Energy
+DISBSAD,2026-06-25,33,3,400.79,3.500,False,False,Outlook Energy Ltd,IBG-OUTL1,True,Energy
+DISBSAD,2026-06-25,33,4,2615.63,22.500,False,False,Nitor Energy A/S,I2G-NITR1,True,Energy
+DISBSAD,2026-06-25,33,5,3095.82,26.000,False,False,Outlook Energy Ltd,IFG-OUTL1,True,Energy
+DISBSAD,2026-06-25,33,6,5699.94,50.500,True,False,MFT Energy A/S,IFG-MFTE1,True,System
+DISBSAD,2026-06-25,33,7,3022.80,27.500,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,33,8,2784.00,24.000,False,False,PowerMart ApS,ING-PWMR1,True,Energy
+DISBSAD,2026-06-25,33,9,2810.25,25.000,True,False,In Commodities A/S,IBG-INCM1,True,System
+DISBSAD,2026-06-25,33,10,8480.25,75.000,False,False,EDF Trading Ltd,IFG-EDFT1,True,Energy
+DISBSAD,2026-06-25,33,11,1364.88,12.000,False,False,Atlas Energy Designated Activity Company,IBG-ATLS1,True,Energy
+DISBSAD,2026-06-25,33,12,1431.13,12.500,False,False,Copenhagen Energy Trading A/S,I2G-COPN1,True,Energy
+DISBSAD,2026-06-25,33,13,338.61,3.000,False,False,MFT Energy A/S,IFG-MFTE1,True,Energy
+DISBSAD,2026-06-25,33,14,600.00,5.000,False,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,Energy
+DISBSAD,2026-06-25,33,15,2795.00,25.000,True,False,Northpool B.V.,IBG-NTPL1,True,System
+DISBSAD,2026-06-25,33,16,2795.00,25.000,True,False,Northpool B.V.,ING-NTPL1,True,System
+DISBSAD,2026-06-25,33,17,2973.85,27.500,False,False,Outlook Energy Ltd,IVG-OUTL1,True,Energy
+DISBSAD,2026-06-25,33,18,1930.08,17.500,False,False,Atlas Energy Designated Activity Company,IVG-ATLS1,True,Energy
+DISBSAD,2026-06-25,33,19,1422.25,12.500,False,False,Copenhagen Energy Trading A/S,IFG-COPN1,True,Energy
+DISBSAD,2026-06-25,33,20,2804.52,24.500,False,False,Nitor Energy A/S,IFG-NITR1,True,Energy
+DISBSAD,2026-06-25,33,21,1170.00,10.000,False,False,SEFE Marketing & Trading Limited,IFG-GAZP1,True,Energy
+DISBSAD,2026-06-25,33,22,2942.75,25.000,False,False,EDF Trading Ltd,ILG-EDFT1,True,Energy
+DISBSAD,2026-06-25,33,23,1380.92,11.500,False,False,Danske Commodities A/S,ING-DSKC1,True,Energy
+DISBSAD,2026-06-25,33,24,2762.38,24.500,True,False,Nitor Energy A/S,IBG-NITR1,True,System
+DISBSAD,2026-06-25,33,25,2854.50,25.000,False,False,In Commodities A/S,IBG-INCM1,True,Energy
+DISBSAD,2026-06-25,33,26,2981.16,26.000,False,False,Outlook Energy Ltd,IFG-OUTL1,True,Energy
+DISBSAD,2026-06-25,33,27,5510.00,47.500,False,False,PowerMart ApS,ILG-PWMR1,True,Energy
+DISBSAD,2026-06-25,33,28,5746.95,49.500,False,False,Northpool B.V.,IFG-NTPL1,True,Energy
+DISBSAD,2026-06-25,32,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,31,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,30,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,29,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,28,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,27,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,26,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,25,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,24,1,-4813.00,-100.000,True,False,MFT Energy A/S,IFD-MFTE1,True,System
+DISBSAD,2026-06-25,23,1,-4813.00,-100.000,True,False,MFT Energy A/S,IFD-MFTE1,True,System
+DISBSAD,2026-06-25,22,1,-2246.75,-50.500,True,False,MFT Energy A/S,I2D-MFTE1,True,System
+DISBSAD,2026-06-25,22,2,-1078.00,-24.500,True,False,PowerMart ApS,ILD-PWMR1,True,System
+DISBSAD,2026-06-25,22,3,-1103.00,-25.000,True,False,Centrica Energy Trading A/S,ILD-NEAS1,True,System
+DISBSAD,2026-06-25,21,1,-1103.00,-25.000,True,False,Centrica Energy Trading A/S,ILD-NEAS1,True,System
+DISBSAD,2026-06-25,21,2,-1078.00,-24.500,True,False,PowerMart ApS,ILD-PWMR1,True,System
+DISBSAD,2026-06-25,21,3,-2246.75,-50.500,True,False,MFT Energy A/S,I2D-MFTE1,True,System
+DISBSAD,2026-06-25,20,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,19,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,18,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,17,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,16,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,15,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,14,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,13,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,12,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,11,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,10,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,9,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,8,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,7,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,6,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,5,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,4,1,0.00,0.000,True,False,,,,
+DISBSAD,2026-06-25,3,1,0.00,0.000,True,False,,,,
